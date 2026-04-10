@@ -5,6 +5,7 @@
         1° identificar e nomear pelo menos 4 code smells presentes.
         2° Explicar brevemente por que cada um é um problema
         3° Propor como cada um poderia ser corrigido
+
     */
 
     function f($a, $b, $c) {
@@ -15,8 +16,8 @@
 
         // Calculadesconto
         $x = $a * $b;
-        $x = $x  ($x * 0.15);
-        $x = $x 1.12;
+        $x = $x - ($x * 0.15);
+        $x = $x * 1.12;
 
         // envia email E salva no banco e Imprime recibo 
         echo "Enviando email para: $c";
