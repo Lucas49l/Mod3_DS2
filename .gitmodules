@@ -1,0 +1,3 @@
+[submodule "atividade/Configuracao_de_Ambiente_Colaborativo_GitHub/lab-colaborativo"]
+	path = atividade/Configuracao_de_Ambiente_Colaborativo_GitHub/lab-colaborativo
+	url = https://github.com/Lucas49l/lab-colaborativo.git
